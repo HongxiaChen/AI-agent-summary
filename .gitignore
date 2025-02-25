@@ -1,0 +1,6 @@
+# Ignore environment variables
+.env
+
+# Ignore logs and temporary files
+logs/
+*.log
