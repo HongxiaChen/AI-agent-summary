@@ -19,7 +19,6 @@ openai_model_name = os.getenv("OPENAI_MODEL_NAME")
 
 # Define URL variable
 web_url = "https://medium.com/@elisowski/a-list-of-ai-agents-set-to-dominate-in-2025-028f975c5b99"
-# "https://www.adressa.no/sport/ski-vm/i/731ebv/uttak-disse-skal-gaa-vms-tre-foerste-oevelser"
 
 # Define Agents
 info_agent = Agent(
