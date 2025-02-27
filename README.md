@@ -21,6 +21,10 @@ OPENAI_API_KEY = openai_api_key
 OPENAI_MODEL_NAME = gpt-4
 ```
 ## Run Python Script
+To run the AI agent script, execute:
+```
+python AI_agent_crewai_test.py
+```
 ## Expected Output
 ```
 Agent Nr1
